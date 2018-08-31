@@ -1,0 +1,106 @@
+@page {
+    size: A3;
+    
+}
+
+/*page[size="A4"] {
+  background: white;
+  width: 21cm;
+  height: 29.7cm;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}*/
+@media print {
+  body, page[size="A3"] {
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 0px;
+    transform: scaleY(0.77);
+      transform: translateY(-30);
+    
+  }
+}
+
+.general_lab_title{
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.b-space{
+    margin-bottom: 1%;
+}
+
+.cbc_form{
+    margin-top: 2%;
+} 
+
+th
+{
+	text-align: center;
+	font-size: 15px;
+	height: 10px;
+}
+
+.tr-row{
+    height: 40px;
+}
+
+.cbc-th1
+{
+	width: 15%;
+}
+
+.cbc-th2
+{
+	width: 15%
+}
+
+.cbc-th3
+{
+	width: 18%
+}
+
+
+.cbc_table
+{
+    direction: ltr;
+	width: 90%;
+	margin: 0px auto;
+	margin-top: 2%;
+}
+.row-res{
+    width: 50%;
+}
+.td-dir{
+    direction: ltr;
+}
+
+.t-area{
+    
+	width: 70%;
+	margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 18%;
+    border-style: ridge;
+    border-radius: 6px;
+    height: 20%;
+}
+
+.ghg{
+    width: 100%;
+}
+
+.seltext{
+    height: 40px;
+    margin-top: 2%;
+}
+
+.Interpr_labe{
+    align-content: center;
+}
+.p-size{
+    width: 595px;
+    height: 842px;
+}

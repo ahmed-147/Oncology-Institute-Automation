@@ -1,0 +1,121 @@
+* { direction : rtl ;
+   
+} 
+
+h2 {
+text-align:center; 
+    margin-top: 0px;
+}
+
+.h{
+    font-size: 20px
+}
+
+.idel{
+border: 1px solid #494949; 
+    padding-top: 10px;
+    margin-top:15px; 
+    float: left;
+    width:280px;
+    height: 40px;
+    text-align:right;
+    font-size:20px;
+}
+.idel input{
+    height: 20px;
+    margin-right: 5px;
+    margin-bottom: 25px;
+}
+.text2{
+
+text-align: right;
+font-size:20px;
+margin : 10px;
+}
+.text2 input{
+	height:25px
+}
+.right_txt{
+	margin-left : 10px;
+}
+.left_txt1{
+	margin-right : 240px;
+}
+.div1 input{
+	margin-left:20px;
+}
+.ch1{margin-left:100px;}
+.left_txt2{
+	margin-right : 242px;
+}
+.div2 input{
+	margin-left:20px;
+}
+
+.left_txt3{
+	margin-right : 113px;
+}
+.div3 input{
+	margin-left:20px;
+}
+
+.left_txt4{
+	margin-right : 210px;
+}
+.div4 input{
+	margin-left:20px;
+}
+.div5{
+	margin-bottom:20px;
+    margin-right: 10px;
+    
+    
+}
+.not{
+	margin-right : 200px;
+	}
+.checkbox{
+
+text-align : right;
+font-size:21px;
+margin-bottom :25px;
+}
+.dfield{
+
+text-align : right;
+font-size:21px;
+}
+.o{
+    width: 97%;
+}
+
+input {
+   
+	margin-right:25px;
+	border: none;}
+p{
+margin-right:20px;
+}
+label {
+	margin-right:10px;
+	
+}
+
+.img
+{
+    margin-right: 80px ;
+}
+
+
+input[type=checkbox] 
+{
+ transform: scale(2);
+ }
+fieldset{
+    margin-bottom: 5px;
+}
+ 
+set{
+    margin-bottom: 10px;
+}
+ 

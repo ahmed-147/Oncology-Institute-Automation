@@ -1,0 +1,65 @@
+.general_lab_title{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.b-space{
+    margin-bottom: 3%;
+}
+.tr-row{
+    height: 60px;
+}
+.esr_form{
+    margin-top: 1%;
+} 
+
+th
+{
+	text-align: center;
+	font-size: 18px;
+	height: 40px;
+}
+
+.tr-row{
+    height: 60px;
+}
+
+.esr-th1
+{
+	width: 15%;
+}
+
+.esr-th2
+{
+	width: 15%
+}
+
+.esr-th3
+{
+	width: 18%
+}
+
+
+.esr_table
+{
+    direction: ltr;
+	width: 90%;
+	margin: 0px auto;
+	margin-top: 2%;
+}
+.row-res{
+    width: 20%;
+}
+.td-dir{
+    direction: ltr;
+}
+
+.t-area{
+    
+	width: 70%;
+	margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 18%;
+    border-style: ridge;
+    border-radius: 6px;
+}

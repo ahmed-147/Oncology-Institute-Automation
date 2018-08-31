@@ -1,0 +1,626 @@
+*
+{
+    font-family: "Cairo" ;
+     font-size: 18px ;
+    direction: ltr;
+}
+
+.origin
+{
+    padding: 0px ;
+}
+
+header
+{
+    text-align: center;
+    box-shadow: 0px 10px 20px #e9e9e9 ;
+    height: 70px;
+    position :fixed ;
+    width: 100%;
+    background-color: white;
+    z-index: 2 ;
+}
+
+h1
+{
+    
+    display: inline-block ;
+    margin-right: 15px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.img_h
+{
+    margin-top: -15px;
+    width:  4%;
+}
+
+.glyphicon-off
+{
+    color: #505782 ;
+	font-size: 30px;
+
+}
+
+
+.glyphicon-off:hover
+{
+    color: #337ab7;
+}
+
+#menu
+{
+    position: absolute;
+    z-index: 0 ;
+    top: 20px ;
+    right: 30px ;
+}
+
+
+
+output
+{
+    font-size: 26px ;
+    font-weight: bold;
+    transform: translateY(85px);
+    text-align: center ;
+	text-decoration: underline;
+	margin-bottom: 4%
+}
+
+
+.operation input
+{
+    padding : 5px 15px 5px 15px ;
+	font-size: 18px
+}
+
+/*-----d0-----*/
+
+.d0
+{
+    margin:-1% 0px 0px 2%;
+    position: absolute;   
+}
+
+.save
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    width: 55px;
+    height: 55px;
+    font-size: 22px;  
+}
+
+.change
+{
+	margin-left: 10px;
+}
+
+
+.save:focus
+{
+    outline: none !important;
+}
+
+.print
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    margin-left: 10px;
+    width: 55px;
+    height: 55px;
+    font-size: 22px;
+}
+
+.print:focus
+{
+    outline: none !important;
+}
+
+.save,.print
+{
+    float: left ;
+   
+}
+
+.form-control,.inl
+{
+	display: inline-block;
+}
+
+.right
+{
+	margin-left: 3%;
+}
+
+.d2
+{
+	width: 30%
+}
+
+.name
+{
+     width: 80%;
+	margin-left: 2%;   
+} 
+
+.age
+{
+     width: 50%;
+	margin-left: 5%;
+}
+
+.d3
+{
+	margin-left: 5%;
+}
+
+.d4
+{
+	width: 30%;
+	margin:0px 0px 3% 2%
+}
+
+.date
+{
+	width: 45%;
+	margin-left: 3%;
+}
+
+.d9_sel1
+{
+	width: 5%;
+	margin-left: 1%;
+}
+
+.d7,.d8
+{
+	margin-top: 2%
+}
+
+.d7_l
+{
+	transform: translateY(-50px);
+	margin-right: 1.5%
+}
+
+.d8_l
+{
+	transform: translateY(-50px);
+	margin-right: 1%
+}
+
+.d7_area,.d8_area
+{
+	width: 60%;
+	font-size: 18px;
+}
+
+.d5_d
+{
+	width: 10%;
+	margin-left: 3%
+}
+
+.d5_d1
+{
+	width: 10%;
+	margin-left: 1.5%
+}
+
+input[type="checkbox"]
+{
+	transform: scale(1.5);
+}
+
+.d5_l
+{
+	margin-left: 3%
+}
+
+.d6
+{
+	margin:1% 0px 2% 15.65%;
+}
+
+.d6_l
+{
+	margin-left: 3%
+}
+
+.d6_d
+{
+	margin-left: 5.5%;
+	width: 10%
+}
+
+.d6_d1
+{
+	width: 10%
+}
+
+.d6_d3
+{
+	margin-left: 3.5%;
+	width: 10%
+}
+
+.d9,.d10,.d11,.d12,.d19,.d21
+{
+	margin-top: 2%;
+}
+
+.boot
+{
+	border-color: lightgray;
+    border-radius: 5px;
+	height: 1%;
+	font-size: 18px;
+}
+
+.d9_d1
+{
+	width: 15%;
+}
+
+.d9_sel1
+{
+	margin-left: 3%;
+	width: 30%;	
+}
+
+.d9_d2,.d9_d4
+{
+	width: 25%;
+	margin-left: 4%;
+}
+
+.d9_d3
+{
+	width: 20%;
+	margin-left: 2%
+}
+
+.d9_sel2
+{
+	width: 40%;
+	margin-left: 2%
+}
+
+.d9_sel3
+{
+	width: 50%;
+	margin-left: 2%
+}
+
+.d9_sel4
+{
+	width: 55%;
+	margin-left: 2%
+}
+
+.d10_sel
+{
+	width: 18%;
+	margin-left: 1%
+}
+
+.d11_sel1
+{
+	width: 60%;
+	margin-left: 2%
+}
+
+.d11_sel2
+{
+	width: 21%;
+	margin-left: 3%;
+	
+}
+
+.d11_d2
+{
+	margin:1% 0px 0px 11.5%
+}
+
+.d11_sel3
+{
+	width:22.7%;
+}
+
+.d11_sel4
+{
+	width:23.7%;
+	margin-left: 5.7%
+}
+
+.d12_sel1
+{
+	margin:0px 5.2% 0px 1.7%;
+	width: 20%;
+}
+
+.d12_sel2
+{
+	width: 21%
+}
+
+.d13,.d14,.d5,.d16,.d17,.d18,.d22,.d23
+{
+	margin-top: 3%
+}
+
+.d13_sel1
+{
+	margin:0px 5% 0px 3%;
+	width: 20%
+}
+
+.d13_sel2
+{
+	width: 21.2%
+}
+
+.d14_sel1
+{
+	margin: 0px 4.9% 0px 0.3%;
+	width: 20%
+}
+
+.d14_sel2
+{
+	width: 21.3%
+}
+
+.d15_d1
+{
+	margin: 0px 0px 0px 2.7%;
+	width: 20%;
+}
+
+.d15_inp1,.d15_inp2,.d16_inp1
+{
+	margin-left: 2%;
+	width: 50%
+}
+
+.d15_d2
+{
+	width: 20%;
+}
+
+.d16_d1
+{
+	width: 20%;
+	margin: 0px 0px 0px 6.3%
+}
+
+.d16_d2
+{
+	width: 20%
+}
+
+.d16_inp2
+{
+	width: 50%;
+	margin-left: 2%
+}
+
+.d17_d1
+{
+	margin-left: 3%
+}
+
+.d18_d1,.d18_d2,.d18_d3,.d18_d4,.d18_d5,.d18_d6,.d18_d7
+{
+	margin-left: 12.5%
+}
+
+.d18_d1 div
+{
+	margin-right: 4%
+}
+
+.d18_d2_d1
+{
+	margin-right: 9.55%
+}
+
+.d18_d2_d2
+{
+	margin-right: 19.4%
+}
+
+.d18_d3_d1
+{
+	margin-right: 8.8%
+}
+
+.d18_d3_d2
+{
+	margin-right: 13.1%
+}
+
+.d18_d4_d1
+{
+	margin-right: 6.88%
+}
+
+.d18_d4_d2
+{
+	margin-right: 9.58%
+}
+
+.d18_d5_d1
+{
+	margin-right: 3%
+}
+
+.d18_d5_d2
+{
+	margin-right: 11%
+}
+
+.d18_d6_d1
+{
+	margin-right: 3.8%
+}
+
+.d18_d6_d2
+{
+	margin-right: 18.5%
+}
+
+.d19_d1,.d20_d1
+{
+	width: 20%;
+	margin:0px 0px 0px 3%
+}
+
+.d19_sel1
+{
+	width: 50%;
+	margin-left: 3%
+}
+
+.d20_sel1
+{
+	width: 61%;
+	margin-left: 3%
+}
+
+.d19_d2,.d20_d2
+{
+	width: 20%;  
+}
+
+.d20_d2
+{
+	margin-left: 4%
+}
+
+.d19_inp
+{
+	width: 30%;
+	margin-left: 3%
+}
+
+.d20_inp
+{
+	width: 37%;
+	margin-left: 3%
+}
+
+.d20
+{
+	margin: 1% 0px 0px 16.8%;
+}
+
+.d21_inp
+{
+	width: 6%;
+	margin:0px 1% 0px 1%
+}
+
+.type
+{
+	margin-left: 2%
+}
+
+.d22_l,.type,.d24_l
+{
+	transform: translateY(-45px);
+}
+
+.d22_area
+{
+	width: 40%;
+	margin-left: 2%
+}
+
+.d23_area
+{
+	width: 53%;
+	margin-left: 2%
+}
+
+.d23_l
+{
+	transform: translateY(-150px);
+}
+
+.d24
+{
+	margin: 3% 0px 6% 0px;
+}
+
+.d24_area
+{
+	width: 41.1%;
+	margin-left: 2%
+}
+
+.al
+{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.d1
+{
+    direction: rtl;
+    margin: 10% 10% 3% 0px;
+    
+}
+
+.code
+{
+     width: 10%;
+	margin-left: 2%;
+}
+
+
+/* Formatting search box (code)  */
+    
+    
+    .result
+    {
+        width: 8.6%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        left: 81.7%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+.insert_dialoge
+{
+	width: 20%;
+	height: 5%;
+	margin-top: 0px auto;
+	
+} 
+

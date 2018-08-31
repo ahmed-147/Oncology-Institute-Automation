@@ -1,0 +1,461 @@
+*
+{
+    font-family: "Cairo" ;
+    direction: rtl;
+}
+
+.origin
+{
+    padding: 0px ;
+}
+
+header
+{
+    text-align: center;
+    box-shadow: 0px 10px 20px #e9e9e9 ;
+    height: 70px;
+    position :fixed ;
+    width: 100%;
+    background-color: white;
+    z-index: 2 ;
+}
+
+h1
+{
+    
+    display: inline-block ;
+    margin-right: 15px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+
+/*     Nav Bar      */
+
+.bar
+{
+    width: 220px ;
+    height: 100% ;
+    background-color: #505782 ;
+    text-align: center ;
+    font-family: cursive ;
+    position: fixed ;
+    z-index: 3 ;
+	font-size: 20px
+    
+}
+
+.glyphicon-circle-arrow-right,.glyphicon-off,#user,a
+{
+    color: white ;
+
+}
+
+#close
+{
+    background-color: #505782 ;
+    border: none; 
+    margin: 20px 140px 30px 0px;
+    
+}
+
+#login
+{
+    margin-left: 5px
+}
+
+.male
+{
+    padding-left: 9%
+}
+
+#a2
+{
+	margin-top:10% ;
+	padding-left: 20%
+}
+
+.l_report
+{
+	margin-left: 24%
+}
+
+.userone
+{
+    margin-bottom: 70px ;
+    margin-left: 20px;
+}
+
+.place
+{
+    margin:0px 0px 0px 15px ;
+    padding: 0px;
+    
+}
+
+#user
+{
+    margin-right: 25px;
+    background-color: #505782 ;
+    width: 130px;
+    border: none ;
+}
+
+.animation
+{
+    margin-right: -250px ;
+    
+}
+
+.l_report,.male,.glyphicon-circle-arrow-right,.glyphicon-off
+{
+    font-size: 30px;
+    
+    
+}
+.nav-stacked
+{
+    width: 220px;
+}
+
+.line
+{
+    border-bottom: 1px solid grey ;
+}
+
+.img_h
+{
+    margin-top: -15px;
+    width:  4%;
+}
+
+.glyphicon-off
+{
+    font-size: 25px ;
+    transform: translateY(7px);
+}
+
+.glyphicon-off:hover
+{
+    color: #337ab7;
+}
+
+.glyphicon-circle-arrow-right:hover
+{
+    color: #337ab7 ;
+}
+
+#menu
+{
+    position: absolute;
+    z-index: 0 ;
+    top: 20px ;
+    right: 30px ;
+}
+
+
+
+/*    Form   */
+
+
+output
+{
+    font-size: 24px ;
+    font-weight: bold;
+    transform: translateY(-45px);
+    text-align: center ;
+	margin-bottom: 4%;
+}
+
+.d1,.d2,.d3
+{
+	font-size: 18px
+}
+
+.diet
+{
+    transform: translateY(135px);
+     margin-right: 270px ;
+    
+}
+
+.diet2
+{
+    display: none ;
+}
+
+.diet_disp
+{
+    margin-right: 9%;
+}
+
+
+.diet input
+{
+    padding : 5px 15px 5px 15px ;
+	font-size: 18px
+}
+
+.d4
+{
+	text-align: center;
+	margin-top: 7%;
+}
+
+.save
+{
+	border: none ;
+    border-radius: 40px;
+    background-color: #506580 ;
+    margin-left: 3% ;
+    color: white ;
+    width: 120px;
+    height: 70px;  
+    font-weight: bold ;
+}
+
+.change
+{
+	border: none ;
+    border-radius: 40px;
+    background-color: #506580 ;
+    color: white ;
+    width: 120px;
+    height: 70px;  
+    font-size: 26px ;
+    font-weight: bold ;
+}
+
+.change
+{
+	margin-right: 10%;
+}
+
+
+.save:focus,.change:focus
+{
+    outline: none !important;
+}
+
+.form-control,.inl
+{
+	display: inline-block;
+}
+
+.d1
+{
+	margin-bottom: 3%;
+}
+
+.code
+{
+     width: 12%;
+	margin-right: 2%;
+}
+
+.name
+{
+     width: 27%;
+	margin-right: 2%;   
+}
+
+.d2
+{
+	margin-bottom: 3%;
+}
+
+.d3_d1
+{
+	width: 20%;
+	margin-left: 8.8%;
+}
+
+.d3_d2
+{
+	width: 20%;
+}
+
+.d3_sel,.d3_sel1
+{
+	width: 45%;
+	margin-right: 4%;
+}
+
+.al
+{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.boot
+{
+	border-color: lightgray;
+    border-radius: 5px;
+	height: 1%;
+	font-size: 18px;
+}
+
+
+/* Formatting search box (code)  */
+    
+    
+    .result
+    {
+        width: 11.9%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        left: 77.2%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+/* Formatting search box (code)  */
+    
+    
+    .result1
+    {
+        width: 27%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        left: 62%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result1 p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result1 p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+
+/*     Form 2        */
+
+
+.report
+{
+    transform: translateY(160px);
+    margin-right: 270px ;
+    
+}
+
+.report2
+{
+    display: none ;
+}
+
+.report_disp
+{
+    margin-right: 5% ;
+}
+
+.title_report
+{
+    text-align: center;
+}
+
+.but1,.but2,.but3,.but4,.but5,.but6,.but7,.but8
+{
+
+    border: none ;
+    border-radius: 40px;
+    background-color: #506580 ;
+    color: white ;  
+    font-size: 20px ;
+	height: 70px;  
+}
+
+.but1
+{
+	margin: 4% 2% 0% 0% ;
+	width: 18%;   
+}
+
+.but2
+{
+	margin: 4% 6% 0% 0% ;
+	width: 18%;   
+}
+
+.but3
+{
+	margin: 4% 6% 0% 0% ;
+	width: 18%;
+}
+
+.but4
+{
+	margin: 4% 7% 0% 0% ;
+	width: 18%;
+}
+
+.but5
+{
+	margin: 8% 2% 0% 0% ;
+	width: 18%;
+}
+
+.but6
+{
+	margin: 8% 6.4% 0% 0% ;
+	width: 18%;
+}
+
+.but7
+
+{
+	margin: 8% 6.8% 0% 0% ;
+	width: 18%;
+}
+
+.but8
+{
+	margin: 8% 6% 0% 0% ;
+	width: 18%;
+}
+
+.but1,.but2,.but3,.but4,.but5,.but6,.but7,.but8:focus
+{
+    outline: none !important;
+}
+
+
+.insert_dialoge
+{
+	width: 20%;
+	height: 5%;
+	margin-top: 0px auto;
+	
+}

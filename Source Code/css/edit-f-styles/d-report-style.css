@@ -1,0 +1,94 @@
+
+/*--------title------------*/
+
+.general_lab_title{
+    text-align: center;
+}
+.pos-l-code,.pos-lable-name{
+    text-align: center;
+}
+
+
+.b-space{
+    margin-bottom: 3%;
+}
+
+th
+{
+	text-align: center;
+	font-size: 18px;
+	height: 40px;
+}
+
+.tr-row{
+    height: 40px;
+}
+
+.title-th{
+    height: auto;
+    text-align: center;
+    
+    
+}
+
+.esr_form{
+    margin-top: 3%;
+}
+
+.d_table{
+    text-align: center;
+    width: 90%
+}
+
+
+.hide
+{
+	display: none;
+}
+
+/*  search for code   */
+
+     .result_enter
+    {
+        width: 80%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:10%;
+        overflow-y: auto;
+        max-height: 300px;
+       
+    }
+    
+    .result_enter p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_enter p:hover
+    {
+        background: #f2f2f2;
+    }
+
+/********back **********/
+.back_but{
+    margin-top: 20px;
+    background-color: #506580;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 5px;
+}
+
+.b-delete {
+    color: #880909;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: #ffff;
+    text-align: center;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,66 @@
+*
+{
+	direction: rtl ;
+}
+
+.report_table
+{
+	width: 80%;
+	margin: 0px auto;
+	margin-top: 2%;
+}
+
+th
+{
+	text-align: center;
+	font-size: 18px;
+	height: 30px;
+}
+
+.th1
+{
+	width: 10%;
+}
+
+.th2
+{
+	width: 15%
+}
+
+.th4
+{
+	width: 18%
+}
+
+
+.print_form2
+{
+
+    border: none ;
+    border-radius: 10px;
+    background-color: #506580 ;
+    margin: 1% 5% 2% 2% ;
+    color: white ;
+    width: 50px;
+    height: 50px;  
+    font-size: 20px ;
+    font-weight: bold ;
+	float: left
+    
+}
+
+.print_form2:focus
+{
+    outline: none !important;
+}
+
+.hide
+{
+	display: none;
+}
+
+
+
+
+
+

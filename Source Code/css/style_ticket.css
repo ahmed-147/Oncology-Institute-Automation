@@ -1,0 +1,189 @@
+* { 
+    direction : rtl ;
+  }
+
+
+ body{
+     color: blue;
+     margin: 2px;
+ }
+ /*---- H ----*/
+h2
+{
+   text-align:center;
+}
+
+.head-titels
+{
+  display: inline-flex;
+}
+
+.area
+{
+    border: none ;
+}
+
+.head-right{
+    width:50%; 
+}
+img{
+    width:50px ; 
+    height:50px ;
+    margin-right: 35px;
+}
+.head-left{
+    width:280px;
+    margin-top:15px; 
+    margin-right: 300px
+
+}
+.head-left input{
+    white-space: nowrap;
+    width:80px;
+}
+
+.head-center{
+    white-space: nowrap;
+}
+
+/*-------------------*/
+
+.kesm
+{
+    text-align: center;
+    font-size: 19px ;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.kesm input{
+    margin-right:5px ;
+    margin-left: 30px;
+    width: 100px;
+    
+}
+/*-------fieldset 1 --------*/
+#level2{
+	/*margin-bottom:10px;*/
+}
+#level3{
+	margin-bottom:10px;
+    white-space: nowrap;
+}
+#level3 label {
+    position: relative;
+    bottom: 20px;
+    
+}
+#level3 textarea {
+    width:300px;
+}
+.initial{
+    width: 300px;
+}
+
+.styl_left_input{
+	margin-left:10px;
+	margin-right:50px;
+}
+.styl{
+	margin-left:15px;
+	margin-right:10px;
+}
+.address-fs2{
+    width: 300px;
+}
+.fieldest1_input{
+    width: 80px;
+}
+
+.name
+{
+    width: 180px;
+}
+
+.id
+{
+    width: 120px
+}
+
+/*---------*/
+
+/*-------fieldset 2 --------*/
+
+.sty_left_input
+{
+	margin-right:50px;
+}
+
+
+
+.sty
+{
+	margin-left:15px;
+	margin-right:10px;
+}
+
+.fieldest2_input
+{
+    width: 150px;
+}
+
+/*--------*/
+
+/*-------fieldset 3 --------*/
+.sty3
+{
+	margin-left:15px;
+	margin-right:10px;
+}
+
+.sty3_left_input
+{
+	margin-left:10px;
+	margin-right:50px;
+}
+
+.fieldest3_input
+{
+    width: 150px;
+}
+
+/*------------*/
+
+
+
+hr{
+	font-size:15px;
+}
+#m{
+   text-align:center;
+   
+   
+}
+#mmm{
+    text-align:right;
+    font-size: 19px ;
+    margin: 5px;
+}
+#mmmm{
+	margin-bottom:5px;
+    text-align: left ;
+    font-size: 15px ;
+}
+#level1{
+	margin-bottom:30px;
+}
+
+#level1 input{
+        width: 150px;
+}
+
+
+input{
+    border:1px #e0e1e0;
+    height : 15px;
+    font-size: 14px
+}
+

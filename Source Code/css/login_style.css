@@ -1,0 +1,150 @@
+*
+{
+    -webkit-box-sizing: border-box ;
+    -moz-box-sizing: border-box ;
+    box-sizing: border-box ;
+    direction:rtl ;
+    font-family: "Cairo";
+    
+}
+
+body
+{
+    background-color: #506580 ;
+}
+
+.title
+{
+    font-size: 36px ;
+    color: white ;
+    text-align: center;
+    font-family: "Cairo";
+    margin-top: 10% ;
+}
+
+.container
+{
+    position: relative ;
+    width: 50% ;
+    height: 100% ;
+}
+
+.circle
+{
+    width: 120px ;
+    height: 120px ;
+    border-radius: 90px ;
+    background-color: white ;
+    position: relative;
+    z-index: 2 ; 
+    margin: 0px auto ; 
+    margin-top: 4% ;
+    
+}
+
+.logo
+{
+    width: 50%;
+    height: 50%;
+    margin : 15px 30px 0px 0px ;
+    
+}
+
+.form
+{
+    width: 75%;
+    height: 45%;
+    background-color: white;
+    border-radius: 25px;
+    transform: translateY(-70px);  
+    margin: 0px auto ;
+}
+
+@media  screen(max-width:1325px && min-width: 900px )
+{
+    .form
+{
+    width: 90%;
+    height: 40%;
+    background-color: white;
+    border-radius: 25px;
+    transform: translateY(-70px);  
+     margin: 0px auto ;
+}
+    
+}
+    
+.user
+{
+    font-size: 18px;
+    margin: 45px 40px 0px 0px ;
+    
+}
+
+.form-control
+{
+    background-color: #F5F5F5 ;
+    margin: 15px 40px 0px 0px ;
+    padding: 15px ;
+    width: 85%;
+    height: 35px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.pass
+{
+    font-size: 18px;
+    margin: 30px 40px 0px 0px ;
+}
+
+.wrong
+{
+    border-color: red;
+}
+
+.div2
+{
+    margin-top: -10px;
+}
+
+.showpass
+{
+    margin-right: 40px ;
+    
+}
+
+
+.passlabel
+{
+    margin-right: 10px;
+}
+
+.sub
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    color: white ;
+    width: 120px;
+    height: 45px;
+    font-size: 24px;
+    margin: 4% 39% ;
+    
+    
+}
+
+.sub:active
+{
+    outline: none !important;
+}
+
+
+
+
+
+
+
+
+
+

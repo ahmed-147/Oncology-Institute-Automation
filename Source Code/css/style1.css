@@ -1,0 +1,1535 @@
+*
+{
+    font-family: "Cairo" ;
+     font-size: 18px ;
+    direction: rtl ;
+}
+
+.origin
+{
+    padding: 0px ;
+}
+
+header
+{
+    text-align: center;
+    box-shadow: 0px 10px 20px #e9e9e9 ;
+    height: 70px;
+    position :fixed ;
+    width: 100%;
+    background-color: white;
+    z-index: 2 ;
+}
+
+h1
+{
+    
+    display: inline-block ;
+    margin-right: 15px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.img_h
+{
+    margin-top: -15px;
+    width:  4%;
+}
+
+.bar
+{
+    width: 220px ;
+    height: 100% ;
+    background-color: #505782 ;
+    text-align: center ;
+    font-family: cursive ;
+    position: fixed ;
+    z-index: 3 ;
+    
+}
+
+.glyphicon-circle-arrow-right,.glyphicon-off,#user,a
+{
+    color: white ;
+
+}
+
+#close
+{
+    background-color: #505782 ;
+    border: none; 
+    margin: 20px 140px 30px 0px;
+    
+}
+
+#login
+{
+    margin-left: 5px;
+}
+
+.close_icon
+{
+    transform: translateY(6px);
+}
+
+.male,.data
+{
+    padding-left: 9%
+}
+
+.trans
+{
+    font-size: 24px;
+    padding-left: 23%; 
+    margin-right: -12%
+    
+}
+
+.export
+{
+    font-size: 26px;
+    padding-left: 25%; 
+    margin-right: -15%
+    
+}
+
+.import
+{
+    font-size: 26px;
+    padding-left: 9%;
+	margin-left: 6%
+}
+
+.report
+{
+    font-size: 26px;
+    padding-left: 23%; 
+    margin-right: -13%
+}
+
+
+.userone
+{
+    margin-bottom: 70px ;
+    margin-left: 20px;
+}
+
+.place
+{
+    margin:0px 0px 0px 15px ;
+    padding: 0px;
+    
+}
+
+#user
+{
+    margin-right: 25px;
+    background-color: #505782 ;
+    width: 130px;
+    border: none ;
+    padding-right: 8%
+}
+
+.animation
+{
+    margin-right: -250px ;
+    
+}
+
+.data,.male,.glyphicon-circle-arrow-right,.glyphicon-off
+{
+    font-size: 30px;
+    
+    
+}
+.nav-stacked
+{
+    width: 220px;
+}
+
+.line
+{
+    border-bottom: 1px solid grey ;
+}
+
+.glyphicon-off
+{
+    font-size: 25px ;
+}
+
+.glyphicon-off:hover
+{
+    color: #337ab7;
+}
+
+.glyphicon-circle-arrow-right:hover
+{
+    color: #337ab7 ;
+}
+
+#menu
+{
+    position: absolute;
+    z-index: 0 ;
+    top: 20px ;
+    right: 30px ;
+}
+
+
+
+output
+{
+    font-size: 20px ;
+    font-weight: bold;
+    transform: translateY(-45px);
+    text-align: center ;
+}
+
+.data1
+{
+    transform: translateY(135px);
+     margin-right: 270px ;
+    
+}
+
+.data2
+{
+    display: none ;
+}
+
+.form_disp
+{
+    margin-right: 5%;
+}
+
+.data1 input[type="text"] , .ticket1 input[type="text"]
+{
+    padding : 5px 15px 5px 15px ;
+}
+
+/*-----d0-----*/
+
+.d0
+{
+    margin-top: -85px;
+    left: 10px;
+    position: absolute;   
+}
+
+
+/*-----d1-----*/
+
+.name,.status,.id,.gender,.d0,.number
+,.gove,.center,.village
+,.age,.birth,textarea,img
+,h1,.img_print,.address,.patient_code,.patient_code_enter
+,.home_num,.phone,.job_details ,.work,.form-control
+{
+    display: inline-block;
+}
+
+.form-control,input
+{
+    font-size: 20px;
+}
+
+.number
+{
+	width: 28%
+}
+
+.stric
+{
+    color: red ;
+    font-size: 20px;
+    margin-right: 1%;
+}
+
+.input_number
+{
+	width: 40%;
+	margin-right: 29.5%;
+}
+
+.patient_code
+{
+    margin-right: 2%;
+    width: 25%
+}
+
+.ticket_code
+{
+	margin-right: 5%;
+	width: 50%
+}
+
+.gender
+{
+	margin-right: 7%;
+}
+
+
+.gender input{ 
+    width: 50px;
+    height: 18px;
+    margin-right: 45px ;
+    
+}
+
+
+
+
+/*-----d2-----*/
+
+.name
+{
+	width:50%
+}
+
+.name input{
+    width: 70%;
+    margin-right:16.2% ; 
+}
+
+.id
+{
+	margin-right: 7.8%;
+	width: 35%;
+}
+
+.id input{
+    width: 52%;
+    margin-right: 5.9%;
+}
+
+.check
+{
+    color: red;
+    margin-right: 5px;
+}
+
+.check1
+{
+    display: none;
+}
+
+
+/*----d3----*/
+.gove .gover {
+    
+    margin-right: 70px;
+	border-color: lightgray;
+	border-radius: 5px;
+}
+
+.center{
+    margin-right: 6.1%;
+    display: inline-flex;
+}
+
+.center label
+{
+    margin-left: 10px;
+    width: 90px;
+}
+
+.village
+{
+    margin-right: 5.9% ;
+    display: inline-flex;
+}
+
+.village label
+{
+    width: 90px ;
+}
+
+.village input
+{
+    width: 70%;
+}
+
+.status select{
+    margin-right: 20px;
+	border-color: lightgray;
+	border-radius: 5px;
+}
+
+.d2,.d3
+{
+   margin-top: 15px;
+}
+
+
+
+/*----d4----*/
+
+.address
+{
+    width: 60%;
+}
+
+.address input{
+    width: 74%;
+    margin-right: 90px;
+}
+
+.address label
+{
+    margin-top: 25px ;
+}
+
+.status  
+{
+    width: 30%;
+    margin-right: 2.5%;
+    
+}
+
+.status select
+{ 
+    width: 30%;
+    font-size: 18px;
+    
+}
+.status option{
+    text-align:center;
+}
+
+/*----d5----*/
+
+.d5
+{
+    margin-top: -10px;
+}
+
+.addressfollow label{
+    
+    transform: translateY(50px);
+    
+}
+
+.addressfollow
+{
+    display: inline-flex;
+}
+
+.addressfollow textarea{
+    
+    margin: 30px 1.5% 10px 0px ;
+    padding : 5px 15px 5px 15px ;  
+}
+
+textarea.form-control
+{
+    margin-right: 27px;
+    width: 553px;
+    overflow-y: hidden ;
+}
+
+/*----d6----*/
+
+.d6
+{
+    margin-top: 10px;
+}
+
+.work .job{
+    
+    margin-right: 90px;
+	border-color: lightgray;
+	border-radius: 5px;
+}
+
+.job_details
+{
+    margin-right: 7.4% ;
+}
+
+.job_details input
+{
+    margin-right: 20px ;
+    width: 538px ;
+}
+
+/*----d7----*/
+
+.d7
+{
+    margin-top: 5px;
+}
+
+.age
+{
+    width: 35%;
+}
+
+.age input
+{ 
+    width: 148px;
+    margin-right: 110px;
+}
+
+.birth
+{
+    width: 30%;
+    margin-right: 20.8% ;
+}
+
+.birth input
+{
+    width: 50%;
+    margin-right:55px;
+    text-align: center;
+    font-size: 18px;    
+}
+
+.age label , .diagnosis label
+{
+    margin: 20px 0px 10px 0px ;
+}
+
+/*----d8----*/
+
+.d8
+{
+    margin-top: 12px;
+}
+
+.phone input
+{
+    width: 250px;
+    margin-right:60px;
+}
+.home_num
+{
+    width: 30%;
+    margin-right: 23.2%;
+}
+
+.home_num input
+{
+    width: 50%;
+    margin-right:16%;
+}
+
+/*----d9----*/
+
+.d9
+{
+    margin-top: 15px
+}
+
+.diagnosis textarea
+{
+    height: 85px;
+    width: 44%;
+    margin-right: 5px ;
+	
+}
+
+.diagnosis label
+{
+    transform: translateY(-40px)
+}
+
+
+
+/*----d0----*/
+
+.save,.change
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    width: 55px;
+    height: 55px;
+    font-size: 22px;  
+}
+
+
+.save:focus
+{
+    outline: none !important;
+}
+
+.change:focus
+{
+    outline: none !important;
+}
+
+.print,.print1
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    margin-left: 10px;
+    width: 55px;
+    height: 55px;
+    font-size: 22px;
+}
+
+.print:focus,.print1:focus
+{
+    outline: none !important;
+}
+
+.change
+{
+	margin-left: 10px;
+}
+
+.save,.print,.print1
+{
+    float: left ;
+   
+}
+
+
+/*    Form 2     */
+
+
+.ticket1
+{
+    transform: translateY(160px);
+    margin-right: 270px ;
+    
+}
+
+.ticket2
+{
+    display: none ;
+}
+
+.ticket_disp
+{
+    margin-right: 5% ;
+}
+
+.title_ticket
+{
+    text-align: center ;
+    transform: translateY(-60px);
+}
+
+
+.ticket_kind input
+{
+    margin-right: 40px; 
+    transform: scale(2);
+    margin-left: 20px;
+}
+
+.ticket_kind
+{
+    margin-top: 20px ;
+}
+
+.ticket1 div 
+{
+    margin-bottom: 40px ;
+}
+
+#name
+{
+    margin-right: 55px ;
+    width: 29.5% ;
+}
+
+#date,#from,#to
+{
+   margin-right: 65px ;
+   width: 29.5% ; 
+}
+
+#to
+{
+    margin-right: 62px ;
+    width: 29.5% ; 
+}
+
+.show1
+{
+
+    border: none ;
+    border-radius: 40px;
+    background-color: #506580 ;
+    margin: 1% 45% 0% 5% ;
+    color: white ;
+    width: 120px;
+    height: 70px;  
+    font-size: 26px ;
+    font-weight: bold ;
+    
+}
+
+.show1:focus
+{
+    outline: none !important;
+}
+
+
+/* Formatting search name box (form1) */
+    
+    .search-box,.search-box1,.search-box2,.search_box4,.search_box_enter{
+       
+        position: relative;
+        
+    }
+    
+    .result
+    {
+        width: 70%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:25.5%;
+       	overflow-y: auto;
+		max-height: 300px;
+		
+    }
+
+    
+    /* Formatting result items */
+    
+    .result p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+
+/*  search for code   */
+
+     .result1
+    {
+        width: 50%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:40.2%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+    
+    .result1 p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result1 p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+
+/*  Search in form 2   */
+
+
+/* Formatting search box */
+    
+    
+    .result_form2
+    {
+        width: 29.6%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:11.5%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result_form2 p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_form2 p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+
+/* Form 3 */
+
+
+.enter1
+{
+    margin: 12% 16% 0% 0%;
+}
+
+.enter2
+{
+	display: none;
+}
+
+.enter_display
+{
+	margin-right: 5%;
+	margin-top: 13%
+}
+
+#form3 .row12
+{
+	margin-right: 20px
+}
+
+.title_enter
+{
+	text-align: center;
+	margin-top: -4% ;
+}
+
+.enter_code
+{
+	width: 56.3%
+}
+
+.enter_code_label
+{
+	margin-left: 5.5%
+}
+
+#form3 input,#form3 select
+{
+	margin-right: 2%;
+}
+
+.enter_title
+{ 
+    text-align: center;
+    text-decoration: underline;
+}
+
+.enter_date
+{
+	margin-right: 5.2%
+}
+
+.enter_unit
+{
+	margin-right: 6% ;
+}
+
+.enter_department
+{
+	margin-left: 3.5%
+}
+
+.enter_unit
+{
+	margin-left: 3.3%
+}
+
+.enter_floor
+{
+	margin-right: 5%;
+}
+
+.enter_doctor
+{
+	margin-left: -0.8%
+}
+
+.enter_input_name
+{
+	width: 30%;
+}
+
+.enter_name
+{
+	margin-left: 4%
+}
+
+.enter_relation
+{
+	margin-left: 3%;
+}
+
+.r5
+{
+	margin-top: 4%;
+}
+
+.enter_id,.enter_doctor,.r1,.r6
+{
+    margin-top: 2%;
+
+}
+
+.id_label_enter
+{
+	margin:0px -2.5% 0px 3%
+}
+
+.enter_id
+{
+	width: 45%;
+}
+
+.enter_input_date,.enter_input_unit,.enter_input_relation
+,.enter_input_department
+{
+	width: 15%;   
+}
+
+.enter_input_floor
+{
+	width: 10%
+}
+
+.enter_input_doctor
+{
+	width: 20%
+}
+
+.enter_input_relation,.enter_input_doctor,.enter_input_department,.enter_input_floor
+{
+	border-radius: 5px;
+	border-color: lightgray;
+}
+
+
+
+/*  search for code   */
+
+     .result_enter
+    {
+        width: 55.9%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:40%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+    
+    .result_enter p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_enter p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+
+
+/* Form 4 */
+
+.transform1
+{
+    margin-top: 10% ;
+    margin-right: 270px;
+}
+
+.transform2
+{
+    display: none;
+}
+
+.transform_disp
+{
+    margin-right: 5% ;
+}
+
+.title_transform
+{
+    text-align: center;
+}
+
+.first
+{
+    margin-top: 2%;
+}
+
+
+.input_name
+{
+    margin-right: 2%;
+    width: 55%;
+}
+        
+.form_control
+{
+    display: inline-block;
+}
+        
+.trans_date,.input_name,.code
+{
+    display: inline-block;   
+}
+        
+.code
+{
+    margin-right: 6.5%;
+    width: 39.6%;
+}
+        
+.trans_date
+{
+    margin-right: 2.3%;
+    width: 16%
+}
+        
+.r1
+{
+    margin-bottom: 2%;
+}
+
+#form4 div
+{
+    margin-bottom: 2%;
+}
+        
+.from1
+{
+    width: 39%;
+    margin-right: 2.8%;
+	
+}
+        
+.to1
+{
+    width: 38.8%;
+    margin-right: 12.4%
+}
+
+.from1,.to1,.role,.doc
+{
+	border-color: lightgray;
+	border-radius: 5px;
+}
+        
+.doc
+{
+    width: 15.5%;
+    margin-right: 6.2%;
+}
+        
+.role
+{
+    width: 20%;
+    margin-right: 3.2%;
+}
+
+		
+
+/* Formatting search box (name) (form4) */
+    
+    
+    .result_form4
+    {
+        width: 52.8%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:11.7%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result_form4 p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_form4 p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+/* Formatting search box (code) (form4) */
+    
+    
+    .result_form4_code
+    {
+        width: 37.3%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:29.4%;
+       	overflow-y: auto;
+		max-height: 300px
+    }
+
+    
+    /* Formatting result items */
+    
+    .result_form4_code p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_form4_code p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+        
+
+/*   insert Dialoge in Form 1   */
+
+.insert_dialoge
+{
+	width: 20%;
+	height: 5%;
+	margin-top: 0px auto;
+	
+}
+
+
+/* Exit Form */
+
+.exit1
+{
+    margin-top: 10% ;
+    margin-right: 270px;
+}
+
+.exit2
+{
+    display: none;
+}
+
+.exit_disp
+{
+    margin-right: 5% ;
+}
+
+.title_exit
+{
+    text-align: center;
+}
+
+/*----d0----*/
+
+
+.d0_exit
+{
+    margin-top: -85px;
+    left: 2%;
+    position: absolute;   
+}
+
+.save_exit
+{
+    border: none ;
+    border-radius: 15px;
+    background-color: #506580 ;
+    width: 55px;
+    height: 55px;
+    font-size: 22px;
+	float: left;
+}
+
+
+.save_exit:focus
+{
+    outline: none !important;
+}
+
+.form_control
+{
+    display: inline-block;
+}
+
+.rr1
+{
+	margin-bottom: 5%
+}
+        
+.code_exit
+{
+    display: inline-block;   
+}
+        
+.code_exit
+{
+    margin-right: 2.5%;
+    width: 40%;
+}
+           
+.dept_exit
+{
+    width: 39.5%;
+    margin-right: 6%;
+	
+}
+        
+.dept_exit,.date_exit,.reason,.condition,.operation,.follow,.site,.laterality
+,.staging,.doc_exit,.topography,.morphology
+{
+	border-color: lightgray;
+	border-radius: 5px;
+}
+        
+.date_exit
+{
+    width: 38%;
+    margin-right: 6.2%;
+}
+
+.d1_exit
+{
+	margin-left: 24%;
+}
+
+.d2_exit
+{
+	margin-left: 12%;
+}
+
+.eng1,.r1_exit
+{
+	text-align: left;
+	
+}
+
+.r1_exit
+{
+	margin-bottom: 2%
+}
+
+.d_condition
+{
+	display: inline-block;
+	width: 40%;
+}
+
+.d_reason
+{
+    display: inline-block;
+	width: 55%;
+    margin: 0px 3% 0px -12%;
+}
+
+.d_follow,.d_operation,.d_site
+{
+	display: inline-block;
+	margin-left: 10%;
+}
+
+.d_topography,.d_morphology,.d_laterality,.d_staging
+{
+	display: inline-block;
+	width: 45%;
+}
+
+.d3_exit
+{
+	margin-left: 12%
+}
+
+.d_clinical
+{
+	margin-left: 12%
+
+}
+
+.condition
+{
+	width: 30%;
+	margin-left: 2%;
+}
+
+.reason
+{
+    width: 45%;
+	margin-left: 2%;
+}
+
+.follow,.site,.operation
+{
+	margin-left: 10px;
+}
+
+.d_opeartion
+{
+	margin-left: 2%;
+}
+
+.operation
+{
+	width: 50px;
+}
+
+.d_condition
+{
+	margin-left: 20px;
+}
+
+.last
+{
+	margin-left: 5%;
+	margin-bottom: 3%;
+	text-decoration: underline;
+}
+
+.staging
+{
+	width: 45% ;
+	margin-left: 8.7%
+}
+
+.d_staging,.d_morphology
+{
+	margin-left: 5%
+}
+
+.laterality
+{
+	width: 45% ;
+	margin-left: 5.7%
+}
+
+.topography
+{
+	width: 45%;
+	margin-left: 2%
+}
+
+.morphology
+{
+	width: 45%;
+	margin-left: 2%
+}
+
+.clinical
+{
+	width: 35%;
+	margin-left: 2%;
+}
+
+.d_doctor
+{
+	margin-bottom: 2%;
+}
+
+.doc_exit
+{
+	margin-right: 2%;
+	width: 20%;
+}
+
+
+/* Formatting search box (code) (exit form) */
+    
+    
+    .result_form6_code
+    {
+        width: 37.1%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:31.9%;
+		overflow-y: auto;
+		max-height: 300px
+    }
+
+
+    /* Formatting result items */
+    
+    .result_form6_code p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result_form6_code p:hover
+    {
+        background: #f2f2f2;
+    }
+
+
+/* Formatting search box (Final Diagnosis) (exit form) */
+    
+    
+    .result7
+    {
+        width: 25.4%;
+        background-color: white;
+        position: absolute;        
+        z-index: 999;
+        right:53.6%;
+		overflow-y: auto;
+		max-height: 100px ;
+       
+    }
+
+    
+    /* Formatting result items */
+    
+    .result7 p
+    {
+        margin: 0;
+        padding: 7px 10px;
+        border: 1px solid #CCCCCC;
+        border-top: none;
+        cursor: pointer;
+    }
+    
+    .result7 p:hover
+    {
+        background: #f2f2f2;
+    }  
+
+
+
+/*   insert Dialoge in exit Form   */
+
+.insert_dialoge
+{
+	width: 20%;
+	height: 5%;
+	margin-top: 0px auto;
+	
+}
+
+
+/*     Form 5    */
+
+.report1
+{
+    transform: translateY(160px);
+    margin-right: 270px ;
+    
+}
+
+.report2
+{
+    display: none ;
+}
+
+.report_disp
+{
+    margin-right: 5% ;
+}
+
+.title_report
+{
+    text-align: center;
+    margin: -4% 0px 7% 0px ;
+}
+
+.but1,.but2,.but3,.but4,.but5,.but6,.but7,.but8,.but9
+{
+
+    border: none ;
+    border-radius: 40px;
+    background-color: #506580 ;
+    color: white ;  
+    font-size: 22px ;
+	height: 70px;
+    font-weight: bold ;   
+}
+
+.but1
+{
+	margin: 4% 7% 0% 0% ;
+	width: 12%;   
+}
+
+.but2
+{
+	margin: 4% 8% 0% 0% ;
+	width: 12%
+}
+
+.but3
+{
+	margin: 4% 8% 0% 0% ;
+	width: 17%;
+}
+
+.but4
+{
+	margin: 4% 8% 0% 0% ;
+	width: 18%;
+}
+
+.but5
+{
+	margin: 5% 9% 0% 0% ;
+	width: 22%;
+	font-size: 18px ;
+}
+
+.but6,.but7
+{
+	margin: 5% 7% 0% 0% ;
+	width: 22%;
+	font-size: 18px ;
+}
+
+.but8
+{
+	margin: 5% 17% 0% 0% ;
+	width: 28%;
+}
+
+.but9
+{
+	margin: 5% 9% 0% 0% ;
+	width: 28%;
+}
+
+.but8,.but9
+{
+	font-size: 20px
+}
+
+
+.but1,.but2,.but3,.but4,.but5,.but6,.but7,.but8,.but9:focus
+{
+    outline: none !important;
+}
+
+
+
+
