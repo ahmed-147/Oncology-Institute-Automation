@@ -1,10 +1,10 @@
 # Oncology-Institute-Automation (OIA)
 Oncology Institute Automation (OIA) automates the old system in the South Egypt Cancer Institute to develop the interface of the old system, make the dealing with the system easier and faster using advanced languages, make the system more secure and add new branch to admin includes several features which makes he is more control in the system.
 
+ 
+## **• Login Page:**
 
-## **• Login Form:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture1.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/Pictures/1.PNG)
 
 ## **• Admin Panel:**
 
