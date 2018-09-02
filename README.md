@@ -4,7 +4,7 @@ Oncology Institute Automation (OIA) automates the old system in the South Egypt 
  
 ## **• Login Page:**
 
-![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/Pictures/1.PNG)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/1.PNG)
 
 ## **• Admin Panel:**
 
