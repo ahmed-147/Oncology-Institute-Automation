@@ -23,15 +23,15 @@ Oncology Institute Automation (OIA) automates the old system in the South Egypt 
 
 ## **• Nutrition Branch:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/nutrition2.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/nutrition3.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/10.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/nutrition2.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/nutrition3.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/10.png)
 
 ## **• Operation Branch:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation1.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation2.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation3.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation4.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation5.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/operation1.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/operation2.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/operation3.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/operation4.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/operation5.png)
 
