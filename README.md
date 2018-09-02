@@ -25,7 +25,7 @@ Oncology Institute Automation (OIA) automates the old system in the South Egypt 
 
 ![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/nutrition2.png)
 ![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/nutrition3.png)
-![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/10.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/10.PNG)
 
 ## **• Operation Branch:**
 
