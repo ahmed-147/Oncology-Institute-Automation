@@ -8,7 +8,8 @@ Oncology Institute Automation (OIA) automates the old system in the South Egypt 
 
 ## **• Admin Panel:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture14.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Admin.PNG)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/2.png)
 
 ## **• Cashier Form:**
 
