@@ -10,37 +10,28 @@ Oncology Institute Automation (OIA) automates the old system in the South Egypt 
 
 ![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/Admin1.png)
 ![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/2.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/6.png)
 
 
-## **• Cashier Form:**
+## **• Reception Branch:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture5.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/1.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/13.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/18.PNG)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/5.png)
+![alt text](https://github.com/mohamedkhalaf96/Oncology-Institute-Automation/blob/master/Pictures/3.png)
 
-## **• Table State:**
+## **• Nutrition Branch:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture3.png)
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture4.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/nutrition2.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/nutrition3.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/10.png)
 
-## **• Update Employee:**
+## **• Operation Branch:**
 
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture8.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation1.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation2.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation3.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation4.png)
+![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/operation5.png)
 
-## **• Delete Employee:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture9.png)
-
-## **• Category:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture10.png)
-
-## **• Products:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture11.png)
-
-## **• Orders:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture12.png)
-
-## **• Make Backup:**
-
-![alt text](https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture13.png)
